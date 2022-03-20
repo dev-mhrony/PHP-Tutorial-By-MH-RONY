@@ -1,0 +1,28 @@
+01. Go Start Bautton and Cleck This .
+
+02. Search Xampp Control panel
+
+03. Open Xamp Control Panel .
+
+04. Start "Apache" 
+
+05. Start "My SQL"
+
+06. Open local disk (c) > 
+        
+        Xamp >
+
+            htdocs >
+                
+                Create New Folder >
+
+                    Create index.html file .
+
+06. Open Browser 
+
+07. Search = localserver/folder name 
+
+
+
+
+-------------------------------------- Happy End --------------------------------
