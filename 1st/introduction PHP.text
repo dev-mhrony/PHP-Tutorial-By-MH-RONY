@@ -1,5 +1,21 @@
 
 
+===========================Basic Introduction in PHP================================
+
+
+                PHP is a programming language. It is mainly used for server-side scripting.
+                PHP is a scripting language designed primarily to create running web pages.
+                It incorporates command line interface capabilities and can be used by standalone graphical applications.
+                Ever since PHP was originally invented by Rasmus Lerdorf in 1995, 
+                the basic application of PHP has been through PHP groups and servers, 
+                and PHP is not bound by any specific boundaries. PHP is a free software under the PHP License,
+                which is compatible with the GNU General Public License (GPL) despite the limitations of using PHP. 
+                PHP is a widely used general purpose scripting language that is especially useful for web development and can be expressed in HTML formats.
+                It can be applied to most web servers and can be used for free on almost all operating systems and locations. 
+                PHP is being used on more than 20 million websites and 1 million web servers.
+
+
+
 
   01. What is PHP ?
 
